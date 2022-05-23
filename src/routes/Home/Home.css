@@ -1,0 +1,12 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home-intro{
+    padding: 40px;
+    margin: 20px;
+    width: 70%;  
+    background-color: rgb(236, 241, 255);
+}
